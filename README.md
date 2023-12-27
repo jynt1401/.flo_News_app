@@ -1,5 +1,9 @@
 # .flo_News_app
 
+
+https://github.com/jynt1401/.flo_News_app/assets/100084399/bcc20357-6ec0-4e88-9d74-c098728f4b50
+
+
 ## Getting Started
 
 The following two methods describe how to use NewsApp in your web browser.
